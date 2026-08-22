@@ -1,0 +1,23 @@
+{
+    "name": "wonderllm-s3",
+    "version": "0.0.1",
+    "description": "MakeCode extension for the Hiwonder WonderLLM S3 AI module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "custom.ts",
+        "_locales/zh-CN/wonderllm-s3-strings.json",
+        "_locales/zh-CN/wonderllm-s3-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

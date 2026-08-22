@@ -1,0 +1,19 @@
+{
+    "AIModule|block": "AI模块",
+    "AIModule.init|block": "初始化AI模块",
+    "AIModule.setMCP|block": "设置MCP工具调用(只支持英文) |工具名称 %tool_name|工具描述 %command|AI模块返回参数 %params|阻塞直到工具调用完成 %block|有数据返回给AI模块 %have_return",
+    "AIModule.setMCP|param|tool_name": "MCP工具名称",
+    "AIModule.setMCP|param|command": "工具用途和调用条件说明",
+    "AIModule.setMCP|param|params": "JSON格式的工具参数定义",
+    "AIModule.setMCP|param|block": "是否阻塞等待工具执行完成",
+    "AIModule.setMCP|param|have_return": "是否向AI模块返回执行结果",
+    "AIModule.mcpSettingFinish|block": "通知AI模块完成MCP设置",
+    "AIModule.actionFinish|block": "通知AI模块工具调用完成",
+    "AIModule.sleep|block": "设置AI模块进入待命状态",
+    "AIModule.setVision|block": "设置视觉任务 %params",
+    "AIModule.setVision|param|params": "视觉任务参数",
+    "AIModule.sendStatus|block": "返回数据 %params 给AI模块",
+    "AIModule.sendStatus|param|params": "JSON格式的状态数据",
+    "AIModule.getReturn|block": "获取AI模块被调用工具返回参数",
+    "AIModule.getSettingLength|block": "获取MCP设置参数长度"
+}
