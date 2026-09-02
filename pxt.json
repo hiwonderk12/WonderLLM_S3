@@ -1,5 +1,5 @@
 {
-    "name": "wonderllm-s3",
+    "name": "WonderLLM_S3",
     "version": "0.0.1",
     "description": "MakeCode extension for the Hiwonder WonderLLM S3 AI module",
     "license": "MIT",
