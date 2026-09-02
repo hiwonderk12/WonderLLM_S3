@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "custom.ts",
-        "_locales/zh-CN/wonderllm-s3-strings.json",
-        "_locales/zh-CN/wonderllm-s3-jsdoc-strings.json"
+        "_locales/zh-CN/wonderllm_s3-strings.json",
+        "_locales/zh-CN/wonderllm_s3-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
