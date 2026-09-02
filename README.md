@@ -1,9 +1,21 @@
-# WonderLLM S3
+# WonderLLM_S3
 
 MakeCode extension for the Hiwonder WonderLLM S3 AI module. The extension is
 structured like the official WonderCam extension and communicates with the AI
 module over I2C address `0x55`.
 
+## License
+
+MIT
+
+## Supported targets
+
+* for PXT/WonderLLM_S3
+(The metadata above is needed for package search.)
+
+```package
+WonderLLM_S3=github:hiwonderk12/WonderLLM_S3
+```
 ## Wiring
 
 | AIModule | micro:bit |
@@ -31,7 +43,3 @@ AIModule.init()
 AIModule.setMCP("self.device.set_light_brightness", "Call this tool when you want to set light brightness", "[[set_light_brightness, int, 0, 255]]", "false", "false")
 AIModule.mcpSettingFinish()
 ```
-
-## License
-
-MIT
