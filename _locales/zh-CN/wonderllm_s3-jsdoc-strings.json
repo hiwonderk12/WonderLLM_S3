@@ -1,11 +1,11 @@
 {
-    "WonderLLM_S3.init": "初始化AI模块的I2C接收服务，请在程序启动时执行一次。",
-    "WonderLLM_S3.setMCP": "向AI模块注册MCP工具，工具名称、描述和参数定义仅支持英文。",
-    "WonderLLM_S3.mcpSettingFinish": "通知AI模块所有MCP工具已经设置完成。",
-    "WonderLLM_S3.actionFinish": "通知AI模块当前工具动作已经执行完成。",
-    "WonderLLM_S3.sleep": "让AI模块进入待命状态。",
-    "WonderLLM_S3.setVision": "向AI模块发送视觉任务参数。",
-    "WonderLLM_S3.sendStatus": "向AI模块发送JSON格式的设备状态数据。",
-    "WonderLLM_S3.getReturn": "读取并清空AI模块最近一次返回的状态或MCP调用结果。",
-    "WonderLLM_S3.getSettingLength": "获取最近一次MCP设置消息的字节长度。"
+    "wonderllm_s3.init": "初始化AI模块的I2C接收服务，请在程序启动时执行一次。",
+    "wonderllm_s3.setMCP": "向AI模块注册MCP工具，工具名称、描述和参数定义仅支持英文。",
+    "wonderllm_s3.mcpSettingFinish": "通知AI模块所有MCP工具已经设置完成。",
+    "wonderllm_s3.actionFinish": "通知AI模块当前工具动作已经执行完成。",
+    "wonderllm_s3.sleep": "让AI模块进入待命状态。",
+    "wonderllm_s3.setVision": "向AI模块发送视觉任务参数。",
+    "wonderllm_s3.sendStatus": "向AI模块发送JSON格式的设备状态数据。",
+    "wonderllm_s3.getReturn": "读取并清空AI模块最近一次返回的状态或MCP调用结果。",
+    "wonderllm_s3.getSettingLength": "获取最近一次MCP设置消息的字节长度。"
 }
