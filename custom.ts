@@ -1,5 +1,8 @@
+/**
+ wonderllm_s3 package
+ */
 //% weight=10 icon="\uf013" color=#ff7f00
-namespace WonderLLM_S3 {
+namespace wonderllm_s3 {
     const I2C_ADDRESS = 0x55;
     const STATUS_NAMES = ["unknown", "starting", "configuring", "idle", "connecting", "listening", "speaking", "upgrading", "activating", "audio_testing", "fatal_error", "invalid_state"];
 
