@@ -10,9 +10,9 @@ MIT
 
 ## Supported targets
 
-* for PXT/WonderLLM_S3
+* for PXT/wonderllm_s3
 (The metadata above is needed for package search.)
 
 ```package
-WonderLLM_S3=github:hiwonderk12/WonderLLM_S3
+wonderllm_s3=github:hiwonderk12/WonderLLM_S3
 ```
